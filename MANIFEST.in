@@ -1,0 +1,7 @@
+include LICENSE
+include VERSION
+include README.rst
+recursive-include userstatistics/initialdata *
+recursive-include userstatistics/locale *
+recursive-include userstatistics/templates *
+recursive-include userstatistics/migrations *
